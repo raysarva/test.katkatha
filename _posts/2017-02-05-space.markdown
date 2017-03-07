@@ -9,6 +9,8 @@ categories: articles
 
 2016 was a special year for us. We turned 18 and we got our own new space to further explore our puppetry encounters. Our space is at the Southern border of Delhi, 12 kilmoeters from the city centre. The population around is dense and semi urban.
 
+{% include coverimage.html url="/images/studio/painting.jpg" caption="Our studio getting a make-over in 2016." %} 
+
 These are the programs the space is currently supporting or planning to support
 
 1. **Mentorship Program** - In December 2017 we kick start our artists mentorship program with the mentoring of young directors from across India by the Director of Helios Theatre in Hamm, Germany, Barbara Kolling. Barbara will mentor 5 young Indian directors in creating 5 new performances using material only. 
@@ -25,3 +27,7 @@ These are the programs the space is currently supporting or planning to support
 -	**The Sunday Puppets Club** - This is a 2 hour children’s program by artists at our studio for children of the neighbourhood. Here they learn to make puppets, tell stories, to paint, sculpt and move. They also have a small library of books and now we are building our animation library.
 -	**The window to puppet theatre** - Our rehearsal room window overlooks the alleyway or thoroughfare used by the entire community. When we are rehearsing we leave the window open and often people stop to watch. We liked this curiosity very much and so we are now building a peep show in our window. People can actually peep in and see puppets, shadows, miniatures or something else. 
 -	**My <i>Gulli</i>** - <i>Gulli</i> is a Hindi word which means an alleyway. Our alleyway has been a drug users’ haven for a long time. We are planning to reclaim it by painting a community mural, together with the children so that the wall belongs to the children and the entire community. The peep show window is in this wall.
+
+{% include imageright.html url="/images/studio/02.jpg" caption="The main rehearsal and performance area." %} 
+{% include image.html url="/images/studio/01.jpg" caption="Our puppet and prop-making shop." %} 
+{% include imageright.html url="/images/studio/03.jpg" caption="The back yard with fresh fruits and vegetables to eat." %} 
